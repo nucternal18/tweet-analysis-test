@@ -7,11 +7,15 @@ The company wants you to provide the following:
 2. A function that takes the data or a subset and returns the total number of likes from the given data.
 3. A function that takes the data or a subset and returns an array of all the hashtags in the given data, in order of first appearance and without duplicates
 
-The first function signature and empty test have been written for you. Find them in the `src` folder. You can find the example data in the `mocks` folder. It has been imported into the test file for your use.
+Notes:
+- The first function signature and an empty test have been written for you. Find them in the `src` folder. You can find the data in the `mocks` folder. It has been imported into the test file for your use.
+- You are encouraged to approach this test using Test Driven Development (TDD). If you are not comfortable writing unit tests you may complete the test without them, but you must demonstrate in code that your functions execute the desired behaviour.
+- If you need some experience with unit testing and TDD, you may wish to reuse this repo as a practice environment for learning TDD after you have completed the test. 
+- You may also create other helper functions to perform parts of the logic as you see fit and you are encouraged to test those as well as the main functions.
 
-You are encouraged to write unit tests. You may also create other helper functions to do parts of the logic as you see fit and you are encouraged to test those as well as the main functions.
-
-Try to keep your solution simple. Use declarative style over imperative where you can. Show your knowledge of ES6 syntax.
+Advice:
+- Try to keep your solutions simple. These are not meant to be complicated algorithms.
+- Use declarative style over imperative where you can. Show your knowledge of ES6 syntax.
 
 ## Setup
 
